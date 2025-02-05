@@ -34,7 +34,9 @@ export function Header() {
         <nav className="flex items-center justify-between transition-colors duration-300">
           <Link href="/" className="flex items-center space-x-2">
             <Sparkles className="h-8 w-8 text-purple-500" />
-            <span className="text-xl font-bold text-white">AI Tool</span>
+            <span className="text-xl font-bold text-white">
+              Sirius A Marketing
+            </span>
           </Link>
           <div className="hidden md:flex items-center space-x-6">
             <NavigationMenu>
